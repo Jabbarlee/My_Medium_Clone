@@ -2,11 +2,11 @@ import Image from "next/image";
 import { AiOutlineSearch } from "react-icons/ai";
 import { MdMarkEmailUnread } from "react-icons/md";
 import Afrobeat from "../static/Afrobeat.jpeg";
-import WEBDEV from "../static/webdev.JPEG";
+import WEBDEV from "../static/webdev.jpg";
 import Linda from "../static/Linda.jpg";
 import JAB from "../static/JAB.jpeg";
 import JsLogo from "../static/jsLogo.png";
-import Legend from "../static/Legend.jpg";
+import Legend from "../static/legend.jpeg";
 
 const styles = {
   wrapper: `h-screen min-w-[10rem] max-w-[30rem] flex-[1.2] p-[2rem]`,
